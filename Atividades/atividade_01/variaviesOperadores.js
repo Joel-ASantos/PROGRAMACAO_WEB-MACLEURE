@@ -15,6 +15,6 @@ let resultado
 
 resultado = numero1 + numero2
 console.log(`O resultado da soma do ${numero1} e ${numero2} e ${resultado}`)
-console.log(`O resultado da soma do ${numero1} e ${numero2} e ${numero1-numero2}`)
-console.log(`O resultado da soma do ${numero1} e ${numero2} e ${numero1*numero2}`)
-console.log(`O resultado da soma do ${numero1} e ${numero2} e ${numero1/numero2}`)
+console.log(`O resultado da subtração do ${numero1} e ${numero2} e ${numero1-numero2}`)
+console.log(`O resultado da multiplicação do ${numero1} e ${numero2} e ${numero1*numero2}`)
+console.log(`O resultado da divisão do ${numero1} e ${numero2} e ${numero1/numero2}`)
