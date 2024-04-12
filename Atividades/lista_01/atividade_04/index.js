@@ -1,6 +1,6 @@
 const express = require('express')
 const calcu = require('./calcu/operacoes')
-const app = require()
+const app = express()
 
 app.get('/',function(){
     console.log("Hello World!\n")
